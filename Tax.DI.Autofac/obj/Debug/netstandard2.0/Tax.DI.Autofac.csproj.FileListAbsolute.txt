@@ -1,0 +1,12 @@
+C:\workspace\payspace.taxcalculator\Tax.DI.Autofac\bin\Debug\netstandard2.0\Tax.DI.Autofac.deps.json
+C:\workspace\payspace.taxcalculator\Tax.DI.Autofac\bin\Debug\netstandard2.0\Tax.DI.Autofac.dll
+C:\workspace\payspace.taxcalculator\Tax.DI.Autofac\bin\Debug\netstandard2.0\Tax.DI.Autofac.pdb
+C:\workspace\payspace.taxcalculator\Tax.DI.Autofac\bin\Debug\netstandard2.0\Tax.Core.dll
+C:\workspace\payspace.taxcalculator\Tax.DI.Autofac\bin\Debug\netstandard2.0\Tax.Core.pdb
+C:\workspace\payspace.taxcalculator\Tax.DI.Autofac\obj\Debug\netstandard2.0\Tax.DI.Autofac.csprojAssemblyReference.cache
+C:\workspace\payspace.taxcalculator\Tax.DI.Autofac\obj\Debug\netstandard2.0\Tax.DI.Autofac.csproj.CoreCompileInputs.cache
+C:\workspace\payspace.taxcalculator\Tax.DI.Autofac\obj\Debug\netstandard2.0\Tax.DI.Autofac.AssemblyInfoInputs.cache
+C:\workspace\payspace.taxcalculator\Tax.DI.Autofac\obj\Debug\netstandard2.0\Tax.DI.Autofac.AssemblyInfo.cs
+C:\workspace\payspace.taxcalculator\Tax.DI.Autofac\obj\Debug\netstandard2.0\Tax.DI.Autofac.csproj.CopyComplete
+C:\workspace\payspace.taxcalculator\Tax.DI.Autofac\obj\Debug\netstandard2.0\Tax.DI.Autofac.dll
+C:\workspace\payspace.taxcalculator\Tax.DI.Autofac\obj\Debug\netstandard2.0\Tax.DI.Autofac.pdb

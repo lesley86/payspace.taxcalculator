@@ -1,0 +1,16 @@
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\bin\Debug\netcoreapp3.1\Tax,Core.UnitTests.deps.json
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\bin\Debug\netcoreapp3.1\Tax,Core.UnitTests.dll
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\bin\Debug\netcoreapp3.1\Tax,Core.UnitTests.pdb
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\bin\Debug\netcoreapp3.1\Tax.Core.dll
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\bin\Debug\netcoreapp3.1\Tax.Core.pdb
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\obj\Debug\netcoreapp3.1\Tax,Core.UnitTests.csprojAssemblyReference.cache
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\obj\Debug\netcoreapp3.1\Tax,Core.UnitTests.csproj.CoreCompileInputs.cache
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\obj\Debug\netcoreapp3.1\Tax,Core.UnitTests.AssemblyInfoInputs.cache
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\obj\Debug\netcoreapp3.1\Tax,Core.UnitTests.AssemblyInfo.cs
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\obj\Debug\netcoreapp3.1\Tax,Core.UnitTests.csproj.CopyComplete
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\obj\Debug\netcoreapp3.1\Tax,Core.UnitTests.dll
+C:\workspace\payspace.taxcalculator\Tax,Core.UnitTests\obj\Debug\netcoreapp3.1\Tax,Core.UnitTests.pdb

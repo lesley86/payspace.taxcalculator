@@ -1,0 +1,14 @@
+C:\workspace\payspace.taxcalculator\Tax.Infrastructure\bin\Debug\netstandard2.0\Tax.Infrastructure.deps.json
+C:\workspace\payspace.taxcalculator\Tax.Infrastructure\bin\Debug\netstandard2.0\Tax.Infrastructure.dll
+C:\workspace\payspace.taxcalculator\Tax.Infrastructure\obj\Debug\netstandard2.0\Tax.Infrastructure.csprojAssemblyReference.cache
+C:\workspace\payspace.taxcalculator\Tax.Infrastructure\obj\Debug\netstandard2.0\Tax.Infrastructure.AssemblyInfoInputs.cache
+C:\workspace\payspace.taxcalculator\Tax.Infrastructure\obj\Debug\netstandard2.0\Tax.Infrastructure.AssemblyInfo.cs
+C:\workspace\payspace.taxcalculator\Tax.Infrastructure\bin\Debug\netstandard2.0\appsettings.json
+C:\workspace\payspace.taxcalculator\Tax.Infrastructure\bin\Debug\netstandard2.0\appsettings.Development.json
+C:\workspace\payspace.taxcalculator\Tax.Infrastructure\bin\Debug\netstandard2.0\Tax.Core.dll
+C:\workspace\payspace.taxcalculator\Tax.Infrastructure\bin\Debug\netstandard2.0\Tax.Core.pdb
+C:\workspace\payspace.taxcalculator\Tax.Infrastructure\obj\Debug\netstandard2.0\Tax.Infrastructure.csproj.CopyComplete
+C:\workspace\payspace.taxcalculator\Tax.Infrastructure\bin\Debug\netstandard2.0\Tax.Infrastructure.pdb
+C:\workspace\payspace.taxcalculator\Tax.Infrastructure\obj\Debug\netstandard2.0\Tax.Infrastructure.csproj.CoreCompileInputs.cache
+C:\workspace\payspace.taxcalculator\Tax.Infrastructure\obj\Debug\netstandard2.0\Tax.Infrastructure.dll
+C:\workspace\payspace.taxcalculator\Tax.Infrastructure\obj\Debug\netstandard2.0\Tax.Infrastructure.pdb

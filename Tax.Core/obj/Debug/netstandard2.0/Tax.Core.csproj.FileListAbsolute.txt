@@ -1,0 +1,9 @@
+C:\workspace\payspace.taxcalculator\Tax.Core\bin\Debug\netstandard2.0\Tax.Core.deps.json
+C:\workspace\payspace.taxcalculator\Tax.Core\bin\Debug\netstandard2.0\Tax.Core.dll
+C:\workspace\payspace.taxcalculator\Tax.Core\bin\Debug\netstandard2.0\Tax.Core.pdb
+C:\workspace\payspace.taxcalculator\Tax.Core\obj\Debug\netstandard2.0\Tax.Core.csproj.CoreCompileInputs.cache
+C:\workspace\payspace.taxcalculator\Tax.Core\obj\Debug\netstandard2.0\Tax.Core.AssemblyInfoInputs.cache
+C:\workspace\payspace.taxcalculator\Tax.Core\obj\Debug\netstandard2.0\Tax.Core.AssemblyInfo.cs
+C:\workspace\payspace.taxcalculator\Tax.Core\obj\Debug\netstandard2.0\Tax.Core.dll
+C:\workspace\payspace.taxcalculator\Tax.Core\obj\Debug\netstandard2.0\Tax.Core.pdb
+C:\workspace\payspace.taxcalculator\Tax.Core\obj\Debug\netstandard2.0\Tax.Core.csprojAssemblyReference.cache

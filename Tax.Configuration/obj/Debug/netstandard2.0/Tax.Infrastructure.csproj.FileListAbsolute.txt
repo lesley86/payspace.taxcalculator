@@ -1,0 +1,4 @@
+C:\workspace\payspace.taxcalculator\Tax.Configuration\bin\Debug\netstandard2.0\Tax.Infrastructure.deps.json
+C:\workspace\payspace.taxcalculator\Tax.Configuration\bin\Debug\netstandard2.0\Tax.Infrastructure.dll
+C:\workspace\payspace.taxcalculator\Tax.Configuration\obj\Debug\netstandard2.0\Tax.Infrastructure.AssemblyInfoInputs.cache
+C:\workspace\payspace.taxcalculator\Tax.Configuration\obj\Debug\netstandard2.0\Tax.Infrastructure.AssemblyInfo.cs
